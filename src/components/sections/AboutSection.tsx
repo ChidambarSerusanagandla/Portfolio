@@ -36,12 +36,6 @@ const AboutSection = () => {
               Committed to Agile methodologies, Test-Driven Development, and continuous learning, 
               consistently delivering innovative solutions that drive business value.
             </p>
-            <Button asChild variant="default" className="px-8 gap-2 mb-6">
-              <a href="/ChidambarSerusanagandla_Resume.pdf" download>
-                <Download className="h-4 w-4" />
-                Download Resume
-              </a>
-            </Button>
           </div>
         </div>
       </div>
