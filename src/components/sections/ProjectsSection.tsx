@@ -11,7 +11,7 @@ const projects = [
   {
     id: 1,
     title: "Secure Banking Platform",
-    role: "Senior Java Full Stack Developer",
+    role: "Software Developer",
     timeframe: "April 2023 – Present",
     description: "Built a secure, scalable banking application for handling transactions, loans, and account management.",
     image: "https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?q=80&w=1000&auto=format&fit=crop",
@@ -35,7 +35,7 @@ const projects = [
   {
     id: 2,
     title: "Healthcare Management System",
-    role: "Java Full Stack Developer",
+    role: "Software Developer",
     timeframe: "February 2021 – March 2023",
     description: "Developed a modern platform to manage patients, appointments, medical records, and billing.",
     image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1000&auto=format&fit=crop",
@@ -59,7 +59,7 @@ const projects = [
   {
     id: 3,
     title: "E-commerce Order Processing System",
-    role: "Full Stack Developer",
+    role: "Software Developer",
     timeframe: "January 2019 – January 2021",
     description: "Delivered an order processing system handling customer purchases, payments, and inventory.",
     image: "https://images.unsplash.com/photo-1526570207772-784d36084510?q=80&w=1000&auto=format&fit=crop",
@@ -83,7 +83,7 @@ const projects = [
   {
     id: 4,
     title: "FinTech Payment Gateway",
-    role: "Java Developer",
+    role: "Software Developer",
     timeframe: "June 2017 – December 2018",
     description: "Built a real-time payment gateway integrated with banks, merchants, and financial APIs.",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1000&auto=format&fit=crop",
