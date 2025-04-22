@@ -79,8 +79,8 @@ const ContactSection = () => {
             <CardContent className="space-y-6">
               <div className="flex items-center">
                 <Mail className="h-5 w-5 mr-3 text-primary" />
-                <a href="mailto:chidambarraos12@gmail.com" className="hover:text-primary transition-colors">
-                  chidambarraos12@gmail.com
+                <a href="mailto:chidambarserusanagandla@gmail.com" className="hover:text-primary transition-colors">
+                chidambarserusanagandla@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
