@@ -101,7 +101,7 @@ const ContactSection = () => {
                   </a>
                 </Button>
                 <Button asChild size="icon" variant="outline" className="border-primary/20 hover:bg-primary/10">
-                  <a href="https://www.linkedin.com/in/chidambar-serusanagandla/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                  <a href="https://www.linkedin.com/in/chidambarserusanagandla/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                     <Linkedin className="h-5 w-5" />
                   </a>
                 </Button>
